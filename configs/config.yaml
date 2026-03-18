@@ -1,0 +1,14 @@
+project:
+  name: driver-behavior-ml
+  random_seed: 42
+
+paths:
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+  features_data_dir: data/features
+  reports_dir: reports
+  models_dir: models
+
+model:
+  target: risk_score
+  test_size: 0.2

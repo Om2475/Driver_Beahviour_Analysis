@@ -1,0 +1,23 @@
+# Data
+data/raw/
+data/processed/
+data/features/
+
+# Outputs
+reports/
+models/
+
+# File types
+*.csv
+*.zip
+*.pkl
+*.h5
+*.parquet
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
