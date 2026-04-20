@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\gpu_env\\Scripts\\python.exe"
+}

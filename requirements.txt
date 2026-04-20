@@ -3,3 +3,10 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+scipy
+tqdm
+pyarrow
+xgboost
+lightgbm
+umap-learn
+hdbscan

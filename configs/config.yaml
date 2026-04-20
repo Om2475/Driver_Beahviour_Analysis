@@ -12,3 +12,9 @@ paths:
 model:
   target: risk_score
   test_size: 0.2
+
+features:
+  schema_version: v2
+  sampling_rate_hz: 10
+  window_seconds: 10
+  stride_seconds: 5
